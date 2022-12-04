@@ -1,0 +1,64 @@
+/* theme */
+
+:root {
+    --primary: #994889;
+    --primary-light: #e7f9f9;
+    --accent: #0652dd;
+    --warning: #ea2027;
+    --liensrose: #8306EB;
+    --jaune:#EBE806;
+    --success: #009432;
+    --font-family: 'Open Sans', sans-serif;
+    --font-size-small: 15px;
+    --font-size-regular: 16px;
+    --font-weight-regular: 400;
+    --font-weight-semi-bold: 600;
+    --box-shadow: 0 1px 2px 0 rgb(60 64 67 / 30%), 0 1px 3px 1px rgb(60 64 67 / 15%);
+    --border-radius: 3px;
+    --border: 1px solid #ddd;
+    --color: #636466;
+    --color-primary: white;
+    --color-dark: #444;
+    --gray: #636466;
+    --gray-light: #ddd;
+    --gray-dark: #444;
+    --max-width: 1200px;
+    --footer-bg: #061f38;
+}
+.gneu,
+.gna{
+    color: var(--success);
+}
+.gni {
+    color: var(--primary);
+}
+#moa{
+    text-decoration: underline; 
+    color: var(--warning);
+}
+.yalla{
+   
+    margin: 0px;
+}
+
+body{
+    margin: 50px;
+    padding: 0;
+    
+}
+
+a{
+    color: var(--liensrose);
+}
+
+#oula{
+    
+   margin: 20px 80px;     
+        
+}
+
+.dep{
+    
+    margin: 50px 50px;
+    font-weight: 1000;
+}
